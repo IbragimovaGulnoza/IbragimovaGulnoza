@@ -1,4 +1,4 @@
-
+https://pin.it/2w2VvSPtm
 ___
 # Hi, my name is Gulnoza   :v:
   
