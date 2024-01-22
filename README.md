@@ -42,3 +42,9 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 ___
+<div align="center">
+  <img src="https://media.giphy.com/media/W39GjdQ3P9zGlOS3nm/giphy.gif" width="400" height="400"/>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=IbragimovaGulnoza-username&style=flat-square&color=blue" alt=""/>
+<h1>
