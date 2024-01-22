@@ -1,9 +1,9 @@
-https://pin.it/2w2VvSPtm
-___
 # Hi, my name is Gulnoza   :v:
-  
-
 ___
+
+<image src="https://i.pinimg.com/originals/b3/12/22/b312220477852885cd69f4dcbbf8dfdf.jpg" width="550" height="500"/>
+___
+  
 
 ### :sunglasses: About Me :
 I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan
